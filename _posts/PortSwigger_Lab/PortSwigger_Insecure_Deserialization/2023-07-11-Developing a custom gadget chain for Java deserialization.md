@@ -357,8 +357,3 @@ java.io.IOException: org.postgresql.util.PSQLException: ERROR: invalid input syn
 有空好好研究payload 跟 jpostgresql 不然一個頭兩個大。
 
 
-
-
-
-
-
